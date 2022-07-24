@@ -3,4 +3,5 @@
 
 Repository created during a live class
 
-TTGL
+Progamming beginner
+
